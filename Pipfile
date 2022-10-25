@@ -16,6 +16,7 @@ black = "*"
 flask = "*"
 gunicorn = "*"
 pytest = "*"
+jupyter = "*"
 
 [dev-packages]
 

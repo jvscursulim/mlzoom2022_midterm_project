@@ -11,11 +11,8 @@ seaborn = "*"
 scikit-learn = "*"
 xgboost = "*"
 requests = "*"
-nox = "*"
-black = "*"
 flask = "*"
 gunicorn = "*"
-pytest = "*"
 jupyter = "*"
 
 [dev-packages]
